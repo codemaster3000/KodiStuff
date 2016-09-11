@@ -1,192 +1,134 @@
 #EXTM3U
-#EXTINF:-1,* * * * * * * * * * GERMANY * * * * * * * * * *
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/586.ts
-#EXTINF:-1,DE: Euronews
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/3021.ts
-#EXTINF:-1,DE: Sonnenklar TV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2058.ts
-#EXTINF:-1,DE - DE: Sport1+ HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2056.ts
-#EXTINF:-1,DE - DE: Sport 1 US
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2059.ts
-#EXTINF:-1,DE - DE: Sony TV HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2057.ts
-#EXTINF:-1,DE - DE: Romance TV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2060.ts
-#EXTINF:-1,DE - DE: Planet HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2061.ts
-#EXTINF:-1,DE - DE: toggo plus
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2062.ts
-#EXTINF:-1,DE: Sixx HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2009.ts
-#EXTINF:-1,DE: SWR
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2008.ts
-#EXTINF:-1,DE - DE: Prosieben Maxx HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2010.ts
-#EXTINF:-1,DE - DE: Prosieben HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2011.ts
-#EXTINF:-1,DE - DE: NDR HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2012.ts
-#EXTINF:-1,DE: RTL Passion
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1531.ts
-#EXTINF:-1,DE: N24
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1502.ts
-#EXTINF:-1,DE: ZDF
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1493.ts
-#EXTINF:-1,DE: WDR
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1507.ts
-#EXTINF:-1,DE: TNT_Film_(TCM)
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1515.ts
-#EXTINF:-1,DE: SUPER_RTL
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1492.ts
-#EXTINF:-1,DE: SAT_1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1494.ts
-#EXTINF:-1,DE: ORF_Eins
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1498.ts
-#EXTINF:-1,DE: ORF_2_HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1500.ts
-#EXTINF:-1,DE: ORF_1_HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1499.ts
-#EXTINF:-1,DE: NTV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1501.ts
-#EXTINF:-1,DE: Dmax
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1505.ts
-#EXTINF:-1,DE: ARTE
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1506.ts
-#EXTINF:-1,DE: Sat 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/819.ts
-#EXTINF:-1,DE: Vox HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/818.ts
-#EXTINF:-1,DE: Rtl-2 DE
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/822.ts
-#EXTINF:-1,DE: Rtl
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/821.ts
-#EXTINF:-1,DE: Pro 7
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/820.ts
-#EXTINF:-1,DE: ARD 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/827.ts
-#EXTINF:-1,DE: Kabel 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/824.ts
-#EXTINF:-1,------- Sky Cinema -------
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2002.ts
-#EXTINF:-1,DE - DE: AXN HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2016.ts
-#EXTINF:-1,DE - DE: SKY Atlantic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2022.ts
-#EXTINF:-1,DE - DE: Universal Channel HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2013.ts
-#EXTINF:-1,DE - DE: SKY Nostalgie
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2017.ts
-#EXTINF:-1,DE - DE: SKY Action HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2023.ts
-#EXTINF:-1,DE - DE: Kabel eins Classics
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2015.ts
-#EXTINF:-1,DE - DE: Deluxe Music HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2014.ts
-#EXTINF:-1,DE - DE: SKY Hits HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2018.ts
-#EXTINF:-1,DE - DE: SKY Cinema HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2019.ts
-#EXTINF:-1,DE - DE: SKY Cinema  24 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2021.ts
-#EXTINF:-1,DE - DE: SKY Cinema  1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2020.ts
-#EXTINF:-1,DE: Sky_Hits
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1511.ts
-#EXTINF:-1,DE: SKY_EMOTION
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1513.ts
-#EXTINF:-1,DE: sky_cinema_HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1508.ts
-#EXTINF:-1,DE: Sky Action
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/807.ts
-#EXTINF:-1,DE: Sky Krimi
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/811.ts
-#EXTINF:-1,DE: Sky Comedy
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/810.ts
-#EXTINF:-1,DE: Sky Cinema-24
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/809.ts
-#EXTINF:-1,DE: Sky Cinema
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/808.ts
-#EXTINF:-1,DE: Sky MGM HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/813.ts
-#EXTINF:-1,DE: Sky_Germany_Cinema_1_HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1512.ts
-#EXTINF:-1,------- Sky Sport -------
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2006.ts
-#EXTINF:-1,DE - DE: Eurosport HD1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2034.ts
-#EXTINF:-1,DE - DE: Sportdigital HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2035.ts
-#EXTINF:-1,DE - DE: SKY Sport 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2033.ts
-#EXTINF:-1,DE - DE: SKY Sport 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2032.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/143.ts
-#EXTINF:-1,DE: SKY SPORTS 2 HD ( DE )
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/620.ts
-#EXTINF:-1,DE: Sky Sports HD 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/154.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/156.ts
-#EXTINF:-1,DE: Eurosport
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1526.ts
-#EXTINF:-1,DE: SKY_SPORT_NEWS
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1516.ts
-#EXTINF:-1,------- SKY Kinder --------
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2003.ts
-#EXTINF:-1,DE - DE: Boomerang
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2024.ts
-#EXTINF:-1,DE - DE: ANIXE
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2025.ts
-#EXTINF:-1,DE - DE: Disney XD HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2026.ts
-#EXTINF:-1,DE: Disney_Channel
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1514.ts
-#EXTINF:-1,DE: Disney JR
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1530.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1529.ts
-#EXTINF:-1,------- SKY Welt -------
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2004.ts
-#EXTINF:-1,DE - DE: Motorvision
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2031.ts
-#EXTINF:-1,DE - DE: Spiegel Geschichte
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2028.ts
-#EXTINF:-1,DE - DE: National Geographic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2030.ts
-#EXTINF:-1,DE - DE: RTL Crime HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2029.ts
-#EXTINF:-1,DE - DE: Heimat kanal
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2027.ts
-#EXTINF:-1,DE: DISCOVERY
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1519.ts
-#EXTINF:-1,DE: Nat_Geo_Wild
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1517.ts
-#EXTINF:-1,DE: HISTORY_CHANNEL
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1518.ts
-#EXTINF:-1,DE: Sky_National_Geographic_HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1520.ts
-#EXTINF:-1,DE: Sky_Discovery_Channel_HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1521.ts
-#EXTINF:-1,DE: RTL_Nitro
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1495.ts
-#EXTINF:-1,------- SKY Serien -------
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2005.ts
-#EXTINF:-1,DE: FOX
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1504.ts
-#EXTINF:-1,de: Sky TNT Serie
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/50.ts
-#EXTINF:-1,DE: Sky_AtlanticHD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1509.ts
-#EXTINF:-1,DE: SyFy
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1528.ts
-#EXTINF:-1,DE: Sky Germany Atlantic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/814.ts
-#EXTINF:-1,DE: Sky 13 Street HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/816.ts
-#EXTINF:-1,DE: Sky Fox HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/815.ts
+#EXTINF:-1,Sky Cinema +1 HD
+rtmp://stream-3.net-service.cc:22544/live/cinemapiu1hdde
+#EXTINF:-1,Sky Cinema +24 HD
+rtmp://stream-3.net-service.cc:22544/live/cinemapiu24hdde
+#EXTINF:-1,Sky Emotion
+rtmp://stream-3.net-service.cc:22544/live/skycinemaemotionde
+#EXTINF:-1,Sky Nostalgie
+rtmp://stream-3.net-service.cc:22544/live/skycinemanostalgiede
+#EXTINF:-1,Sky Cinema Action
+rtmp://stream-3.net-service.cc:22544/live/skyactionde
+#EXTINF:-1,Sky Cinema Hits
+rtmp://stream-3.net-service.cc:22544/live/sky007de
+#EXTINF:-1,TNT Serie
+rtmp://stream-3.net-service.cc:22544/live/skytntseriede
+#EXTINF:-1,Discovery HD
+rtmp://stream-3.net-service.cc:22544/live/discoveryhdde
+#EXTINF:-1,Discovery
+rtmp://stream-3.net-service.cc:22544/live/skydiscoveryde
+#EXTINF:-1,Disney
+rtmp://stream-3.net-service.cc:22544/live/skydisneyxdde
+#EXTINF:-1,MGM
+rtmp://stream-3.net-service.cc:22544/live/mgm
+#EXTINF:-1,Fox
+rtmp://stream-3.net-service.cc:22544/live/skyfoxde
+#EXTINF:-1,Heimakanal
+rtmp://stream-3.net-service.cc:22544/live/skyheimakanalde
+#EXTINF:-1,Sky Krimi
+rtmp://stream-3.net-service.cc:22544/live/skykrimide
+#EXTINF:-1,Nat Geo HD
+rtmp://stream-3.net-service.cc:22544/live/natgeohdde
+#EXTINF:-1,Nat Geo
+rtmp://stream-3.net-service.cc:22544/live/skynatgeode
+#EXTINF:-1,Nat Geo Wild HD
+rtmp://stream-3.net-service.cc:22544/live/natgeowildhdde
+#EXTINF:-1,Nat Geo Wild
+rtmp://stream-3.net-service.cc:22544/live/skynatgeowildde
+#EXTINF:-1,RTL Passion
+rtmp://stream-3.net-service.cc:22544/live/rtlpassionde
+#EXTINF:-1,RTL Crime
+rtmp://stream-3.net-service.cc:22544/live/rtlcrimede
+#EXTINF:-1,RTL 2
+rtmp://stream-3.net-service.cc:22544/live/rtl2
+#EXTINF:-1,RTL Nitro
+rtmp://stream-3.net-service.cc:22544/live/rtlnitro
+#EXTINF:-1,RTL Living
+rtmp://stream-3.net-service.cc:22544/live/rtlliving
+#EXTINF:-1,Super RTL
+rtmp://stream-3.net-service.cc:22544/live/superrtl
+#EXTINF:-1,Sky Sport 1 HD
+rtmp://stream-3.net-service.cc:22544/live/sport1hdde
+#EXTINF:-1,Sky Sport 1
+rtmp://stream-3.net-service.cc:22544/live/skysport1de
+#EXTINF:-1,Sky Sport 2
+rtmp://stream-3.net-service.cc:22544/live/skysport2de
+#EXTINF:-1,Sky Sport Austria
+rtmp://stream-3.net-service.cc:22544/live/skysportaustriade
+#EXTINF:-1,Sky SyFy
+rtmp://stream-3.net-service.cc:22544/live/skysyfyde
+#EXTINF:-1,Disneycinemagic
+rtmp://stream-3.net-service.cc:22544/live/disneycinemagic
+#EXTINF:-1,Junior
+rtmp://stream-3.net-service.cc:22544/live/skyjuniorde
+#EXTINF:-1,Nick Jr
+rtmp://stream-3.net-service.cc:22544/live/nickjrde
+#EXTINF:-1,HSE24
+http://198.16.76.122:8000/657/BJDRTISRYHMI48CA
+#EXTINF:-1,DMAX
+http://198.16.76.122:8000/660/BJDRTISRYHMI48CA
+#EXTINF:-1,REGIO TV
+http://198.16.76.122:8000/659/BJDRTISRYHMI48CA
+#EXTINF:-1,mediasparTV Homeshopping
+http://198.16.76.122:8000/658/BJDRTISRYHMI48CA
+#EXTINF:-1,HSE24 TREND
+http://198.16.76.122:8000/661/BJDRTISRYHMI48CA
+#EXTINF:-1,e8 television
+http://198.16.76.122:8000/663/BJDRTISRYHMI48CA
+#EXTINF:-1,AstroTV
+http://198.16.76.122:8000/662/BJDRTISRYHMI48CA
+#EXTINF:-1,MediaShop- Neuheiten
+http://198.16.76.122:8000/664/BJDRTISRYHMI48CA
+#EXTINF:-1,SPORT1
+http://198.16.76.122:8000/666/BJDRTISRYHMI48CA
+#EXTINF:-1,meinTVshop
+http://198.16.76.122:8000/665/BJDRTISRYHMI48CA
+#EXTINF:-1,Disney Cinemagic HD
+http://198.16.76.122:8000/669/BJDRTISRYHMI48CA
+#EXTINF:-1,NatGeo HD
+http://198.16.76.122:8000/670/BJDRTISRYHMI48CA
+#EXTINF:-1,Sky Atlantic HD
+http://198.16.76.122:8000/668/BJDRTISRYHMI48CA
+#EXTINF:-1,13th Street?? HD
+http://198.16.76.122:8000/672/BJDRTISRYHMI48CA
+#EXTINF:-1,Sky Sport HD 2
+http://198.16.76.122:8000/671/BJDRTISRYHMI48CA
+#EXTINF:-1,Family TV
+http://198.16.76.122:8000/678/BJDRTISRYHMI48CA
+#EXTINF:-1,AXN Action
+http://198.16.76.122:8000/679/BJDRTISRYHMI48CA
+#EXTINF:-1,Romance TV
+http://198.16.76.122:8000/680/BJDRTISRYHMI48CA
+#EXTINF:-1,SAT.1
+http://198.16.76.122:8000/682/BJDRTISRYHMI48CA
+#EXTINF:-1,A
+E&http://198.16.76.122:8000/681/BJDRTISRYHMI48CA
+#EXTINF:-1,ProSieben
+http://198.16.76.122:8000/683/BJDRTISRYHMI48CA
+#EXTINF:-1,kabel eins
+http://198.16.76.122:8000/684/BJDRTISRYHMI48CA
+#EXTINF:-1,N24
+http://198.16.76.122:8000/685/BJDRTISRYHMI48CA
+#EXTINF:-1,SAT.1 Gold
+http://198.16.76.122:8000/686/BJDRTISRYHMI48CA
+#EXTINF:-1,Pro7 MAXX
+http://198.16.76.122:8000/687/BJDRTISRYHMI48CA
+#EXTINF:-1,SAT.1 Bayern
+http://198.16.76.122:8000/689/BJDRTISRYHMI48CA
+#EXTINF:-1,SAT.1 NRW
+http://198.16.76.122:8000/690/BJDRTISRYHMI48CA
+#EXTINF:-1,Sky Cinema1 HD
+http://198.16.76.122:8000/691/BJDRTISRYHMI48CA
+#EXTINF:-1,Sky Cinema24 HD
+http://198.16.76.122:8000/692/BJDRTISRYHMI48CA
+#EXTINF:-1,Spiegel Geschichte?? HD
+http://198.16.76.122:8000/693/BJDRTISRYHMI48CA
+#EXTINF:-1,Disney Junior HD
+http://198.16.76.122:8000/694/BJDRTISRYHMI48CA
+#EXTINF:-1,Sky Atlantic?+?1 HD
+http://198.16.76.122:8000/695/BJDRTISRYHMI48CA
+#EXTINF:-1,Die Neue Zeit TV
+http://198.16.76.122:8000/697/BJDRTISRYHMI48CA
 #EXTINF:-1,------- SKY Select -------
 http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2007.ts
 #EXTINF:-1,DE: SKY SELECT 1
@@ -243,485 +185,3 @@ http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2042.ts
 http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2043.ts
 #EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
 http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2044.ts
-#EXTM3U
-#EXTINF:-1,DE: zdf-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/324.ts
-#EXTINF:-1,DE: vox-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/325.ts
-#EXTINF:-1,DE: tnt-serie-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/321.ts
-#EXTINF:-1,DE: tnt-film-tcm
-http://space-iptv.ddns.net:8112/live/karim/karim/322.ts
-#EXTINF:-1,DE: syfy-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/323.ts
-#EXTINF:-1,DE: sport1-us-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/337.ts
-#EXTINF:-1,DE: sport1-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/326.ts
-#EXTINF:-1,DE: sky-sport-news-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/310.ts
-#EXTINF:-1,DE: sky-sport-hd-2
-http://space-iptv.ddns.net:8112/live/karim/karim/302.ts
-#EXTINF:-1,DE: sky-sport-hd-1
-http://space-iptv.ddns.net:8112/live/karim/karim/301.ts
-#EXTINF:-1,DE: sky-nostalgie
-http://space-iptv.ddns.net:8112/live/karim/karim/311.ts
-#EXTINF:-1,DE: sky-krimi
-http://space-iptv.ddns.net:8112/live/karim/karim/312.ts
-#EXTINF:-1,DE: sky-hits-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/313.ts
-#EXTINF:-1,DE: sky-emotion
-http://space-iptv.ddns.net:8112/live/karim/karim/314.ts
-#EXTINF:-1,DE: sky-comedy
-http://space-iptv.ddns.net:8112/live/karim/karim/315.ts
-#EXTINF:-1,DE: sky-cinema-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/316.ts
-#EXTINF:-1,DE: sky-cinema-24-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/317.ts
-#EXTINF:-1,DE: sky-cinema-1-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/318.ts
-#EXTINF:-1,DE: sky-bundesliga-hd-1
-http://space-iptv.ddns.net:8112/live/karim/karim/319.ts
-#EXTINF:-1,DE: sky-atlantic-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/320.ts
-#EXTINF:-1,DE: sky-atlantic-1-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/299.ts
-#EXTINF:-1,DE: sky-action-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/300.ts
-#EXTINF:-1,DE: sat-1-gold-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/327.ts
-#EXTINF:-1,DE: prosieben-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/328.ts
-#EXTINF:-1,DE: pro7-maxx-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/329.ts
-#EXTINF:-1,DE: natgeo-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/307.ts
-#EXTINF:-1,DE: nat-geo-wild-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/308.ts
-#EXTINF:-1,DE: eurosport-2-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/335.ts
-#EXTINF:-1,DE: eurosport-1-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/336.ts
-#EXTINF:-1,DE: e-entertainm-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/331.ts
-#EXTINF:-1,DE: disney-xd
-http://space-iptv.ddns.net:8112/live/karim/karim/303.ts
-#EXTINF:-1,DE: disney-junior-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/304.ts
-#EXTINF:-1,DE: disney-cinemagic-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/305.ts
-#EXTINF:-1,DE: disney-channel-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/306.ts
-#EXTINF:-1,DE: discovery-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/309.ts
-#EXTINF:-1,DE: cartoon-network
-http://space-iptv.ddns.net:8112/live/karim/karim/330.ts
-#EXTINF:-1,DE: axn-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/334.ts
-#EXTINF:-1,DE: a-e
-http://space-iptv.ddns.net:8112/live/karim/karim/333.ts
-#EXTINF:-1,DE: 13th-street-hd
-http://space-iptv.ddns.net:8112/live/karim/karim/332.ts
-#EXTINF:-1,DE-WDR HD
-http://space-iptv.ddns.net:8112/live/karim/karim/158.ts
-#EXTINF:-1,DE-WDR
-http://space-iptv.ddns.net:8112/live/karim/karim/161.ts
-#EXTINF:-1,DE-SWR
-http://space-iptv.ddns.net:8112/live/karim/karim/160.ts
-#EXTINF:-1,DE-SERVUS TV DE
-http://space-iptv.ddns.net:8112/live/karim/karim/150.ts
-#EXTINF:-1,DE-ORF 2
-http://space-iptv.ddns.net:8112/live/karim/karim/151.ts
-#EXTINF:-1,DE-NDR HD
-http://space-iptv.ddns.net:8112/live/karim/karim/157.ts
-#EXTINF:-1,DE-NDR
-http://space-iptv.ddns.net:8112/live/karim/karim/159.ts
-#EXTINF:-1,DE-N 24
-http://space-iptv.ddns.net:8112/live/karim/karim/152.ts
-#EXTINF:-1,DE-HR
-http://space-iptv.ddns.net:8112/live/karim/karim/153.ts
-#EXTINF:-1,DE-DW
-http://space-iptv.ddns.net:8112/live/karim/karim/148.ts
-#EXTINF:-1,DE-BUNDESLIGA
-http://space-iptv.ddns.net:8112/live/karim/karim/156.ts
-#EXTINF:-1,DE-ARTE
-http://space-iptv.ddns.net:8112/live/karim/karim/149.ts
-#EXTINF:-1,DE-ARD DAS ERSTE
-http://space-iptv.ddns.net:8112/live/karim/karim/154.ts
-#EXTINF:-1,DE-3 SAT
-http://space-iptv.ddns.net:8112/live/karim/karim/155.ts
-#EXTM3U
-#EXTINF:-1,* * * * * * * * * * UNITED KINGDOM * * * * * * * * * *
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/585.ts
-#EXTINF:-1,UK: Zee Cinema
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2155.ts
-#EXTINF:-1,UK: YESTERDAY
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2223.ts
-#EXTINF:-1,UK: Vivo 3
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2104.ts
-#EXTINF:-1,UK: Vivo 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2105.ts
-#EXTINF:-1,UK: Vivo 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2106.ts
-#EXTINF:-1,UK: VH1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2156.ts
-#EXTINF:-1,UK: True Movies 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2107.ts
-#EXTINF:-1,UK: True Movies 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2157.ts
-#EXTINF:-1,UK: Travel
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2108.ts
-#EXTINF:-1,UK: TCM
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2210.ts
-#EXTINF:-1,UK: SyFy
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2109.ts
-#EXTINF:-1,UK: Sky Two
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2167.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2158.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2211.ts
-#EXTINF:-1,UK: Sky Sport 5 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2900.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2212.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2213.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2214.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2217.ts
-#EXTINF:-1,UK: SKY SETANTA
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2224.ts
-#EXTINF:-1,UK: SKY SELECT
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2168.ts
-#EXTINF:-1,UK: Sky Premier Sport
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2179.ts
-#EXTINF:-1,UK: SKY ONE HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2169.ts
-#EXTINF:-1,UK: Sky One
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2215.ts
-#EXTINF:-1,UK: Sky News
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2216.ts
-#EXTINF:-1,UK: SKY MOVIES THRILLER HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2159.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2110.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2160.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2111.ts
-#EXTINF:-1,UK: SKY MOVIES SCIFI HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2170.ts
-#EXTINF:-1,UK: Sky Movies Scifi
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2112.ts
-#EXTINF:-1,UK: SKY MOVIES SC-FI
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2218.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN GREAT HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2171.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2113.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2209.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2161.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2172.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2219.ts
-#EXTINF:-1,UK: SKY MOVIES DISNEY HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2173.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2174.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2220.ts
-#EXTINF:-1,UK: Sky movie Atlantic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2114.ts
-#EXTINF:-1,UK: Sky Monster
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2115.ts
-#EXTINF:-1,UK: SKY MODERN GREATS HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2175.ts
-#EXTINF:-1,UK: Sky Disney
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2208.ts
-#EXTINF:-1,UK: SKY ACTION
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2176.ts
-#EXTINF:-1,UK: SKY  ARTS 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2162.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2118.ts
-#EXTINF:-1,UK: RTE 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2177.ts
-#EXTINF:-1,UK: RTE 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2119.ts
-#EXTINF:-1,UK: Racing UK
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2120.ts
-#EXTINF:-1,UK: Premiere Sport HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2178.ts
-#EXTINF:-1,UK: Premier Sports
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2121.ts
-#EXTINF:-1,UK: Pick
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2122.ts
-#EXTINF:-1,UK: NICK TOONS
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2163.ts
-#EXTINF:-1,UK: National Geographic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2123.ts
-#EXTINF:-1,UK: NATIONAL GEO
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2180.ts
-#EXTINF:-1,UK: MU TV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2182.ts
-#EXTINF:-1,UK: MTV Music
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2183.ts
-#EXTINF:-1,UK: MTV HITS
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2184.ts
-#EXTINF:-1,UK: MTV dance
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2124.ts
-#EXTINF:-1,UK: MTV Classic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2185.ts
-#EXTINF:-1,UK: Movies 4 Men
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2125.ts
-#EXTINF:-1,UK: More 4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2186.ts
-#EXTINF:-1,UK: Living UK
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2126.ts
-#EXTINF:-1,UK: LIVERPOOL FC
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2164.ts
-#EXTINF:-1,UK: ITV 4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2225.ts
-#EXTINF:-1,UK: ITV 3
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2226.ts
-#EXTINF:-1,UK: ITV 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2227.ts
-#EXTINF:-1,UK: ITV 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2228.ts
-#EXTINF:-1,UK: ITV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2229.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2187.ts
-#EXTINF:-1,UK: Horror Channel
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2154.ts
-#EXTINF:-1,UK: HISTORY CHANNEL
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2188.ts
-#EXTINF:-1,UK: GOLD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2165.ts
-#EXTINF:-1,UK: Food Network
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2153.ts
-#EXTINF:-1,UK: Five UK
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2127.ts
-#EXTINF:-1,UK: Five
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2189.ts
-#EXTINF:-1,UK: Film 4 UK
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2128.ts
-#EXTINF:-1,UK: Film 4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2190.ts
-#EXTINF:-1,UK: Eurosport 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2129.ts
-#EXTINF:-1,UK: Eurosport 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2191.ts
-#EXTINF:-1,UK: ESPN HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2192.ts
-#EXTINF:-1,UK: E4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2130.ts
-#EXTINF:-1,UK: DMAX
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2166.ts
-#EXTINF:-1,UK: DISNEY CHANNEL
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2193.ts
-#EXTINF:-1,UK: Disney Chaneel HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2194.ts
-#EXTINF:-1,UK: Disney Junior
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2794.ts
-#EXTINF:-1,UK: Discovery Science
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2195.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2131.ts
-#EXTINF:-1,UK: DEVA
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2230.ts
-#EXTINF:-1,UK: Dave
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2132.ts
-#EXTINF:-1,UK: CTH STADIUM X
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2139.ts
-#EXTINF:-1,UK: CTH STADIUM 6 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2140.ts
-#EXTINF:-1,UK: CTH STADIUM 5 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2145.ts
-#EXTINF:-1,UK: CTH STADIUM 4 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2146.ts
-#EXTINF:-1,UK: CTH STADIUM 3 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2147.ts
-#EXTINF:-1,UK: CTH STADIUM 2 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2148.ts
-#EXTINF:-1,UK: CTH STADIUM 1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2149.ts
-#EXTINF:-1,SP: MIO Stadium 108 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2874.ts
-#EXTINF:-1,SP: MIO Stadium 107 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2873.ts
-#EXTINF:-1,SP: MIO Stadium 106 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2872.ts
-#EXTINF:-1,SP: MIO Stadium 105 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2871.ts
-#EXTINF:-1,SP: MIO Stadium 104 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2870.ts
-#EXTINF:-1,SP: MIO Stadium 103 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2869.ts
-#EXTINF:-1,SP: MIO Stadium 102 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2868.ts
-#EXTINF:-1,SP: MIO Stadium 101 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2867.ts
-#EXTINF:-1,UK: Comedy Central
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2150.ts
-#EXTINF:-1,UK: COLORS
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2196.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2221.ts
-#EXTINF:-1,UK: Chelsea FC
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2133.ts
-#EXTINF:-1,UK: CHANNEL FOUR
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2231.ts
-#EXTINF:-1,UK: CHANNEL FIVE
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2232.ts
-#EXTINF:-1,UK: CBS Reality
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2197.ts
-#EXTINF:-1,UK: CBS Drama
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2198.ts
-#EXTINF:-1,UK: CBS Action
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2199.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2201.ts
-#EXTINF:-1,UK: BT Sport Extra
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2151.ts
-#EXTINF:-1,UK: BT SPORT EUROPE HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2200.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2152.ts
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2222.ts
-#EXTINF:-1,UK: Box Nation  HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2202.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2203.ts
-#EXTINF:-1,UK: BBC 4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2233.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2134.ts
-#EXTINF:-1,UK: BBC 3
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2234.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2204.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2205.ts
-#EXTINF:-1,UK: B4U MOVIES
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2206.ts
-#EXTINF:-1,UK: At The Races UK
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2135.ts
-#EXTINF:-1,UK: Alibi
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2136.ts
-#EXTINF:-1,UK: 5USA
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2207.ts
-#EXTINF:-1,UK: 4E
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2235.ts
-#EXTINF:-1,UK:  Box Nation
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2138.ts
-#EXTINF:-1,UK: Sony Movies
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/881.ts
-#EXTINF:-1,UK: Sky Movies Show Case
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/882.ts
-#EXTINF:-1,UK: Sky Alantic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/883.ts
-#EXTINF:-1,UK: Setanta Sports
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/806.ts
-#EXTINF:-1,UK: Nickelodeon
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/885.ts
-#EXTINF:-1,UK: Nick Junior
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/886.ts
-#EXTINF:-1,UK: National Geography HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/887.ts
-#EXTINF:-1,UK: National Geo WILD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/888.ts
-#EXTINF:-1,UK: LONDON LIFE
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/889.ts
-#EXTINF:-1,UK: Dinseny Channel UK
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/890.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/891.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/892.ts
-#EXTINF:-1,UK: Cbeebies
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/894.ts
-#EXTINF:-1,uk: sky sports news hd
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/895.ts
-#EXTINF:-1,UK: Cartoon Network
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/896.ts
-#EXTINF:-1,UK: BBC Two
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/897.ts
-#EXTINF:-1,UK: BBC One
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/898.ts
-#EXTINF:-1,UK: Animal Planet
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/899.ts
-#EXTINF:-1,UK: BT Sport 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/595.ts
-#EXTINF:-1,UK: BT Sport 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/594.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/607.ts
-#EXTINF:-1,UK: Sky Sport 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/602.ts
-#EXTINF:-1,UK: Sky Sport 2
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/603.ts
-#EXTINF:-1,UK: Sky Sport 3
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/604.ts
-#EXTINF:-1,UK: Sky Sport 4
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/605.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/606.ts
-#EXTINF:-1,UK-TLC-IRELAND
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/407.ts
-#EXTINF:-1,UK-Sky-movies-Thriller
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/408.ts
-#EXTINF:-1,UK-Sky-Movies-Showcase
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/409.ts
-#EXTINF:-1,UK-Sky-Movies-Select
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/410.ts
-#EXTINF:-1,UK-Sky-Movies-Family
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/411.ts
-#EXTINF:-1,UK-Sky-Movies-Disney.
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/412.ts
-#EXTINF:-1,UK-Sky-Movies-Comedy
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/415.ts
-#EXTINF:-1,UK-Sky-Movies-Action
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/417.ts
-#EXTINF:-1,UK-Sky-Movies -Premiere
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/418.ts
-#EXTINF:-1,UK-Sky-Living
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/419.ts
-#EXTINF:-1,UK-Real-Lives
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/400.ts
-#EXTINF:-1,UK-QUEST
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/401.ts
-#EXTINF:-1,UK-Nicktoons-Ireland
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/402.ts
-#EXTINF:-1,UK-Nick-Jr-Too
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/403.ts
-#EXTINF:-1,UK-Nick-Jr 1
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/404.ts
-#EXTINF:-1,UK-National-Geographic
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/405.ts
-#EXTINF:-1,UK-Nat-Geo-Wild
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/406.ts
-#EXTINF:-1,UK-Discovery-Home-&Health
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/420.ts
-#EXTINF:-1,UK-Discovery-History
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/421.ts
-#EXTINF:-1,UK-Discovery
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/422.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/384.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/383.ts
-#EXTINF:-1,UK: ITV 3 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/382.ts
-#EXTINF:-1,UK: ITV 4 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/381.ts
-#EXTINF:-1,UK: BBC News
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/385.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/386.ts
