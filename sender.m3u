@@ -1,176 +1,187 @@
 #EXTM3U
-#EXTINF:-1,▅-▆-█-GERMANIA-█-▆-▅
-http://149.202.82.73:8000/live/abc/cba/16272.ts
-#EXTINF:-1,SKY SELECT 1
-http://149.202.82.73:8000/live/abc/cba/19549.ts
-#EXTINF:-1,SKY SELECT 2
-http://149.202.82.73:8000/live/abc/cba/19550.ts
-#EXTINF:-1,SKY SELECT 3
-http://149.202.82.73:8000/live/abc/cba/19551.ts
-#EXTINF:-1,SKY SELECT 4
-http://149.202.82.73:8000/live/abc/cba/19548.ts
-#EXTINF:-1,SKY SELECT 5
-http://149.202.82.73:8000/live/abc/cba/19552.ts
-#EXTINF:-1,SKY SELECT 6
-http://149.202.82.73:8000/live/abc/cba/19553.ts
-#EXTINF:-1,▅-▆-█-SKY DEUTSCHLAND-█-▆-▅
-http://149.202.82.73:8000/live/abc/cba/17515.ts
-#EXTINF:-1,[DE] Das Herste-
-http://149.202.82.73:8000/live/abc/cba/19014.ts
-#EXTINF:-1,[DE] Super RTL—
-http://149.202.82.73:8000/live/abc/cba/18968.ts
-#EXTINF:-1,[DE] Sat 1-
-http://149.202.82.73:8000/live/abc/cba/18990.ts
-#EXTINF:-1,[DE] RTL 2-
-http://149.202.82.73:8000/live/abc/cba/18996.ts
-#EXTINF:-1,[DE] Prosieben-
-http://149.202.82.73:8000/live/abc/cba/18997.ts
-#EXTINF:-1,[DE] Spiegel Geschichte HD-
-http://149.202.82.73:8000/live/abc/cba/18969.ts
-#EXTINF:-1,[DE] Sky Cinema HD-
-http://149.202.82.73:8000/live/abc/cba/18979.ts
-#EXTINF:-1,[DE] Sky Cinema  1 HD-
-http://149.202.82.73:8000/live/abc/cba/18981.ts
-#EXTINF:-1,[DE] Sky Cinema  24 HD-
-http://149.202.82.73:8000/live/abc/cba/18980.ts
-#EXTINF:-1,[DE] Sky Nostalgie-
-http://149.202.82.73:8000/live/abc/cba/18975.ts
-#EXTINF:-1,[DE] Sky Hits-
-http://149.202.82.73:8000/live/abc/cba/18977.ts
-#EXTINF:-1,[DE] Sky Krimi-
-http://149.202.82.73:8000/live/abc/cba/18976.ts
-#EXTINF:-1,[DE] Sky Emotion-
-http://149.202.82.73:8000/live/abc/cba/18978.ts
-#EXTINF:-1,[DE] Sky SyFy-
-http://149.202.82.73:8000/live/abc/cba/18970.ts
-#EXTINF:-1,[DE] Action HD-
-http://149.202.82.73:8000/live/abc/cba/19018.ts
-#EXTINF:-1,[DE] MGM-
-http://149.202.82.73:8000/live/abc/cba/19004.ts
-#EXTINF:-1,[DE] 13TH Street-
-http://149.202.82.73:8000/live/abc/cba/19019.ts
-#EXTINF:-1,[DE] Universal HD-
-http://149.202.82.73:8000/live/abc/cba/18963.ts
-#EXTINF:-1,▅-▆-█-SKY KINDER-█-▆-▅
-http://149.202.82.73:8000/live/abc/cba/15767.ts
-#EXTINF:-1,[DE] Junior-
-http://149.202.82.73:8000/live/abc/cba/19005.ts
-#EXTINF:-1,[DE] Nick Jr-
-http://149.202.82.73:8000/live/abc/cba/18999.ts
-#EXTINF:-1,[DE] Disney Junior-
-http://149.202.82.73:8000/live/abc/cba/19011.ts
-#EXTINF:-1,[DE] Cartoon Network-
-http://149.202.82.73:8000/live/abc/cba/19015.ts
-#EXTINF:-1,[DE] Boomerang-
-http://149.202.82.73:8000/live/abc/cba/19017.ts
-#EXTINF:-1,[DE] Disneycinemagic-
-http://149.202.82.73:8000/live/abc/cba/19009.ts
-#EXTINF:-1,[DE] Disney XD-
-http://149.202.82.73:8000/live/abc/cba/19010.ts
-#EXTINF:-1,▅-▆-█-SKY ENTERTAINMENT-█-▆-▅
-http://149.202.82.73:8000/live/abc/cba/17448.ts
-#EXTINF:-1,[DE] Fox-
-http://149.202.82.73:8000/live/abc/cba/19007.ts
-#EXTINF:-1,[DE] E! Entertainm. HD-
-http://149.202.82.73:8000/live/abc/cba/19008.ts
-#EXTINF:-1,[DE] Heimakanal-
-http://149.202.82.73:8000/live/abc/cba/19006.ts
-#EXTINF:-1,[DE] Sky Atlantic-
-http://149.202.82.73:8000/live/abc/cba/18987.ts
-#EXTINF:-1,[DE] Sky Atlantic HD-
-http://149.202.82.73:8000/live/abc/cba/18988.ts
-#EXTINF:-1,[DE] Sky Action-
-http://149.202.82.73:8000/live/abc/cba/18989.ts
-#EXTINF:-1,[DE] Sat 1 Gold-
-http://149.202.82.73:8000/live/abc/cba/18991.ts
-#EXTINF:-1,[DE] RTL Passion-
-http://149.202.82.73:8000/live/abc/cba/18992.ts
-#EXTINF:-1,[DE] RTL Nitro-
-http://149.202.82.73:8000/live/abc/cba/18993.ts
-#EXTINF:-1,[DE] RTL Living-
-http://149.202.82.73:8000/live/abc/cba/18994.ts
-#EXTINF:-1,[DE] RTL Crime-
-http://149.202.82.73:8000/live/abc/cba/18995.ts
-#EXTINF:-1,[DE] Pro 7 Max-
-http://149.202.82.73:8000/live/abc/cba/18998.ts
-#EXTINF:-1,[DE] TNT Serie-
-http://149.202.82.73:8000/live/abc/cba/18964.ts
-#EXTINF:-1,[DE] TNT Glitz HD-
-http://149.202.82.73:8000/live/abc/cba/18965.ts
-#EXTINF:-1,[DE] TNT Film-
-http://149.202.82.73:8000/live/abc/cba/18966.ts
-#EXTINF:-1,[DE] TNT Comedy HD-
-http://149.202.82.73:8000/live/abc/cba/18967.ts
-#EXTINF:-1,▅-▆-█-SKY WELT&KULTUR-█-▆-▅
-http://149.202.82.73:8000/live/abc/cba/15577.ts
-#EXTINF:-1,[DE] Discovery HD-
-http://149.202.82.73:8000/live/abc/cba/19013.ts
-#EXTINF:-1,[DE] Nat Geo-
-http://149.202.82.73:8000/live/abc/cba/19000.ts
-#EXTINF:-1,[DE] Nat Geo HD-
-http://149.202.82.73:8000/live/abc/cba/19003.ts
-#EXTINF:-1,[DE] Nat Geo Wild-
-http://149.202.82.73:8000/live/abc/cba/19001.ts
-#EXTINF:-1,[DE] Nat Geo Wild HD-
-http://149.202.82.73:8000/live/abc/cba/19002.ts
-#EXTINF:-1,▅-▆-█-FUSSBALL BUNDESLIGA-█-▆-▅
-http://149.202.82.73:8000/live/abc/cba/17447.ts
-#EXTINF:-1,[DE] Sky Sport Austria-
-http://149.202.82.73:8000/live/abc/cba/18971.ts
-#EXTINF:-1,[DE] Sky Sport 1 HD-
-http://149.202.82.73:8000/live/abc/cba/18974.ts
-#EXTINF:-1,[DE] Sky Sport 1-
-http://149.202.82.73:8000/live/abc/cba/18973.ts
-#EXTINF:-1,[DE] Sky Sport 2-
-http://149.202.82.73:8000/live/abc/cba/18972.ts
-#EXTINF:-1,[DE] Bundesliga 1 HD-
-http://149.202.82.73:8000/live/abc/cba/19016.ts
-#EXTINF:-1,[DE] Sky Bundesliga 1-
-http://149.202.82.73:8000/live/abc/cba/18986.ts
-#EXTINF:-1,[DE] Sky Bundesliga 2-
-http://149.202.82.73:8000/live/abc/cba/18985.ts
-#EXTINF:-1,[DE] Sky Bundesliga 3-
-http://149.202.82.73:8000/live/abc/cba/18984.ts
-#EXTINF:-1,[DE] Sky Bundesliga 4-
-http://149.202.82.73:8000/live/abc/cba/18983.ts
-#EXTINF:-1,[DE] Sky Bundesliga 5-
-http://149.202.82.73:8000/live/abc/cba/18982.ts
-#EXTM3U
-#EXTINF:-1,>>DEUTSCH<<
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/368.ts
+#EXTINF:-1,DE: sky bundesliga 1
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/168.ts
+#EXTINF:-1,DE: Sky Sport News
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/346.ts
+#EXTINF:-1,DE: Sky Sport Plus HD
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/364.ts
+#EXTINF:-1,DE: Sky Sport 24 HD
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/367.ts
+#EXTINF:-1,DE: SPORT TIME TV 1HD
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/58.ts
+#EXTINF:-1,DE: SPORT TIME TV 2HD
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/62.ts
+#EXTINF:-1,DE: SPORT TIME TV 3HD
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/63.ts
 #EXTINF:-1,DE: RTL HD
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/370.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/370.ts
 #EXTINF:-1,DE: RTL 2
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/375.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/375.ts
 #EXTINF:-1,DE: Prosieben HD
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/374.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/374.ts
 #EXTINF:-1,DE: Kabel 1
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/372.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/372.ts
 #EXTINF:-1,DE: Anixe
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/373.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/373.ts
 #EXTINF:-1,DE: 13th Street
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/371.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/371.ts
 #EXTINF:-1,DE: Das Erste
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/357.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/357.ts
 #EXTINF:-1,DE: N24
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/359.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/359.ts
 #EXTINF:-1,DE: ZDF
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/361.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/361.ts
 #EXTINF:-1,DE: Servus HD
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/358.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/358.ts
 #EXTINF:-1,DE: RIC
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/362.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/362.ts
 #EXTINF:-1,DE: NDR
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/360.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/360.ts
 #EXTINF:-1,DE: Sky Hits
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/379.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/379.ts
 #EXTINF:-1,DE: Sky History Channel
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/378.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/378.ts
 #EXTINF:-1,DE: Disney DX UK
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/377.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/377.ts
 #EXTINF:-1,DE: Sky Atlantic
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/376.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/376.ts
 #EXTINF:-1,DE: Sky Krimi
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/380.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/380.ts
 #EXTINF:-1,DE: National Geographic
-http://iptv.sharing2all.net:80/live/MagSat/iduR1rEkDy/369.ts
+http://178.33.36.249:80/live/MagSat/iduR1rEkDy/369.ts
+#EXTINF:-1,MSNBC KIDS
+http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8
+#EXTINF:-1,ESTV HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8
+#EXTINF:-1,AMC
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
+#EXTINF:-1,E!
+http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
+#EXTINF:-1,FX
+http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8
+#EXTINF:-1,TNT
+http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
+#EXTINF:-1,SYFY
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8
+#EXTINF:-1,USA HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8
+#EXTINF:-1,N/A HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
+#EXTINF:-1,MOVIES 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8
+#EXTINF:-1,MOVIES 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
+#EXTINF:-1,MOVIES 3
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
+#EXTINF:-1,MOVIES 4
+http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
+#EXTINF:-1,MOVIES 5
+http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8
+#EXTINF:-1,MOVIES 6
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
+#EXTINF:-1,SHOWTIME
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
+#EXTINF:-1,SHOWTIME 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
+#EXTINF:-1,SHOWCASE
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
+#EXTINF:-1,MOVIES 7
+http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
+#EXTINF:-1,STARZ CINEMA
+http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
+#EXTINF:-1,MOVIES 8
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
+#EXTINF:-1,HISTORY
+http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
+#EXTINF:-1,HISTORY 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
+#EXTINF:-1,INVESTIGATION DESCOVERY
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
+#EXTINF:-1,NBCSN
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+#EXTINF:-1,ESPN
+http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
+#EXTINF:-1,???
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
+#EXTINF:-1,FS 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1,FS 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
+#EXTINF:-1,NBA TV
+http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
+#EXTINF:-1,MLB NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
+#EXTINF:-1,SPORTS
+http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
+#EXTINF:-1,WWE
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
+#EXTINF:-1,VERSUS
+http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8
+#EXTINF:-1,TSN 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8
+#EXTINF:-1,TSN 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8
+#EXTINF:-1,TSN 3
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
+#EXTINF:-1,TSN 4
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
+#EXTINF:-1,TSN 5
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
+#EXTINF:-1,SN 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8
+#EXTINF:-1,FOX SPORTS
+http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
+#EXTINF:-1,SNWL
+http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8
+#EXTINF:-1,SN CENTRAL
+http://46.166.162.35:9090/load/b0922f3fa8aa/60.m3u8
+#EXTINF:-1,TVP1 HD
+rtmp://163.172.154.44/live//ID01
+#EXTINF:-1,TVP2 HD
+rtmp://163.172.154.44/live//ID02
+#EXTINF:-1,POLSAT HD
+rtmp://163.172.154.44/live//ID05
+#EXTINF:-1,POLSAT2 HD
+rtmp://163.172.154.44/live//ID09
+#EXTINF:-1,POLSAT SPORT
+rtmp://163.172.154.44/live//ID03
+#EXTINF:-1,CANAL+ HD Sport
+rtmp://163.172.154.44/live//ID08
+#EXTINF:-1,HBO HD
+rtmp://163.172.154.44/live//ID10
+#EXTINF:-1,FILMBOX EXTRA HD 
+rtmp://163.172.154.44/live//ID11
+#EXTINF:-1,COMEDY CENTRAL HD 
+rtmp://163.172.154.44/live//ID12
+#EXTINF:-1,AXN HD 
+rtmp://163.172.154.44/live//ID14
+#EXTINF:-1,Discovery HD
+rtmp://163.172.154.44/live//ID07
+#EXTINF:-1,MANGO
+rtmp://163.172.154.44/live//ID04
