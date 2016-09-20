@@ -1,187 +1,271 @@
 #EXTM3U
-#EXTINF:-1,DE: sky bundesliga 1
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/168.ts
-#EXTINF:-1,DE: Sky Sport News
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/346.ts
-#EXTINF:-1,DE: Sky Sport Plus HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/364.ts
-#EXTINF:-1,DE: Sky Sport 24 HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/367.ts
-#EXTINF:-1,DE: SPORT TIME TV 1HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/58.ts
-#EXTINF:-1,DE: SPORT TIME TV 2HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/62.ts
-#EXTINF:-1,DE: SPORT TIME TV 3HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/63.ts
-#EXTINF:-1,DE: RTL HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/370.ts
-#EXTINF:-1,DE: RTL 2
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/375.ts
-#EXTINF:-1,DE: Prosieben HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/374.ts
-#EXTINF:-1,DE: Kabel 1
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/372.ts
-#EXTINF:-1,DE: Anixe
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/373.ts
-#EXTINF:-1,DE: 13th Street
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/371.ts
-#EXTINF:-1,DE: Das Erste
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/357.ts
-#EXTINF:-1,DE: N24
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/359.ts
 #EXTINF:-1,DE: ZDF
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/361.ts
-#EXTINF:-1,DE: Servus HD
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/358.ts
-#EXTINF:-1,DE: RIC
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/362.ts
-#EXTINF:-1,DE: NDR
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/360.ts
-#EXTINF:-1,DE: Sky Hits
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/379.ts
-#EXTINF:-1,DE: Sky History Channel
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/378.ts
-#EXTINF:-1,DE: Disney DX UK
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/377.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/376.ts
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/307.ts
+#EXTINF:-1,DE: ZDF HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1140.ts
+#EXTINF:-1,DE: Sat 1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1597.ts
+#EXTINF:-1,DE: Sat 1 Emotions
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2539.ts
+#EXTINF:-1,DE: Heimatkanal
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2718.ts
+#EXTINF:-1,DE: Goldstar
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2719.ts
+#EXTINF:-1,DE: RTL
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2537.ts
+#EXTINF:-1,DE: RTL HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/923.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/924.ts
+#EXTINF:-1,DE: Super RTL
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/309.ts
+#EXTINF:-1,DE: ProSieben SD/HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/922.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2489.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2577.ts
+#EXTINF:-1,DE: Hr HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2578.ts
+#EXTINF:-1,DE: Das Erste HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2621.ts
+#EXTINF:-1,DE: Comedy Central
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2579.ts
+#EXTINF:-1,DE: VOX
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/308.ts
+#EXTINF:-1,DE: Sixx HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1405.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/312.ts
+#EXTINF:-1,DE: KABEL 1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2724.ts
+#EXTINF:-1,DE: DMAX
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/929.ts
+#EXTINF:-1,DE: JOIZ HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2356.ts
+ #EXTINF:-1,DE: Arte HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/809.ts
+#EXTINF:-1,DE: Ndr HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1425.ts
+#EXTINF:-1,DE: MDR HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1413.ts
+#EXTINF:-1,DE: WDR HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/928.ts
+#EXTINF:-1,DE: 3SAT HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1410.ts
+#EXTINF:-1,DE: ZDF Kultur HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1071.ts
+#EXTINF:-1,DE: ZDF info
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1070.ts
+#EXTINF:-1,DE: ARD 24
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2357.ts
+#EXTINF:-1,DE: Servus TV
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1899.ts
+#EXTINF:-1,DE: EINS PLUS HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1407.ts
+#EXTINF:-1,DE: Classica
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2725.ts
+ #EXTINF:-1,DE: ORF 1 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/311.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/327.ts
+ #EXTINF:-1,DE: N24 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1426.ts
+#EXTINF:-1,DE: Euronews
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1306.ts
+#EXTINF:-1,DE: AUSTRIA 24
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1795.ts
+ #EXTINF:-1,DE: TLC
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2204.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/927.ts
+#EXTINF:-1,DE: RTL Crime
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1783.ts
+#EXTINF:-1,DE: RTL Passion
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1785.ts
+#EXTINF:-1,DE: RTL LIVING HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2380.ts
 #EXTINF:-1,DE: Sky Krimi
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/380.ts
-#EXTINF:-1,DE: National Geographic
-http://178.33.36.249:80/live/MagSat/iduR1rEkDy/369.ts
-#EXTINF:-1,MSNBC KIDS
-http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8
-#EXTINF:-1,ESTV HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8
-#EXTINF:-1,AMC
-http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8
-#EXTINF:-1,E!
-http://46.166.162.35:9090/load/b0922f3fa8aa/6.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8
-#EXTINF:-1,FX
-http://46.166.162.35:9090/load/b0922f3fa8aa/8.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/9.m3u8
-#EXTINF:-1,TNT
-http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8
-#EXTINF:-1,SYFY
-http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/13.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8
-#EXTINF:-1,USA HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8
-#EXTINF:-1,N/A HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/19.m3u8
-#EXTINF:-1,MOVIES 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/20.m3u8
-#EXTINF:-1,MOVIES 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8
-#EXTINF:-1,MOVIES 3
-http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8
-#EXTINF:-1,MOVIES 4
-http://46.166.162.35:9090/load/b0922f3fa8aa/23.m3u8
-#EXTINF:-1,MOVIES 5
-http://46.166.162.35:9090/load/b0922f3fa8aa/24.m3u8
-#EXTINF:-1,MOVIES 6
-http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8
-#EXTINF:-1,SHOWTIME
-http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8
-#EXTINF:-1,SHOWTIME 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/27.m3u8
-#EXTINF:-1,SHOWCASE
-http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/30.m3u8
-#EXTINF:-1,MOVIES 7
-http://46.166.162.35:9090/load/b0922f3fa8aa/32.m3u8
-#EXTINF:-1,STARZ CINEMA
-http://46.166.162.35:9090/load/b0922f3fa8aa/33.m3u8
-#EXTINF:-1,MOVIES 8
-http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8
-#EXTINF:-1,HISTORY
-http://46.166.162.35:9090/load/b0922f3fa8aa/35.m3u8
-#EXTINF:-1,HISTORY 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://46.166.162.35:9090/load/b0922f3fa8aa/38.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8
-#EXTINF:-1,INVESTIGATION DESCOVERY
-http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8
-#EXTINF:-1,NBCSN
-http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
-#EXTINF:-1,ESPN
-http://46.166.162.35:9090/load/b0922f3fa8aa/43.m3u8
-#EXTINF:-1,???
-http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
-#EXTINF:-1,FS 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
-#EXTINF:-1,FS 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
-#EXTINF:-1,NBA TV
-http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8
-#EXTINF:-1,MLB NETWORK
-http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8
-#EXTINF:-1,SPORTS
-http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8
-#EXTINF:-1,WWE
-http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8
-#EXTINF:-1,VERSUS
-http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8
-#EXTINF:-1,TSN 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8
-#EXTINF:-1,TSN 2
-http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8
-#EXTINF:-1,TSN 3
-http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
-#EXTINF:-1,TSN 4
-http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
-#EXTINF:-1,TSN 5
-http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
-#EXTINF:-1,SN 1
-http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8
-#EXTINF:-1,FOX SPORTS
-http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
-#EXTINF:-1,SNWL
-http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8
-#EXTINF:-1,SN CENTRAL
-http://46.166.162.35:9090/load/b0922f3fa8aa/60.m3u8
-#EXTINF:-1,TVP1 HD
-rtmp://163.172.154.44/live//ID01
-#EXTINF:-1,TVP2 HD
-rtmp://163.172.154.44/live//ID02
-#EXTINF:-1,POLSAT HD
-rtmp://163.172.154.44/live//ID05
-#EXTINF:-1,POLSAT2 HD
-rtmp://163.172.154.44/live//ID09
-#EXTINF:-1,POLSAT SPORT
-rtmp://163.172.154.44/live//ID03
-#EXTINF:-1,CANAL+ HD Sport
-rtmp://163.172.154.44/live//ID08
-#EXTINF:-1,HBO HD
-rtmp://163.172.154.44/live//ID10
-#EXTINF:-1,FILMBOX EXTRA HD 
-rtmp://163.172.154.44/live//ID11
-#EXTINF:-1,COMEDY CENTRAL HD 
-rtmp://163.172.154.44/live//ID12
-#EXTINF:-1,AXN HD 
-rtmp://163.172.154.44/live//ID14
-#EXTINF:-1,Discovery HD
-rtmp://163.172.154.44/live//ID07
-#EXTINF:-1,MANGO
-rtmp://163.172.154.44/live//ID04
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1114.ts
+#EXTINF:-1,DE: Fox HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1788.ts
+#EXTINF:-1,DE: Fox
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2604.ts
+#EXTINF:-1,DE: A&E
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2121.ts
+#EXTINF:-1,DE: SYFY HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1599.ts
+#EXTINF:-1,DE: SYFY
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2606.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/806.ts
+#EXTINF:-1,DE: TNT serie
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2696.ts
+#EXTINF:-1,DE: TNT Film HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/788.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2738.ts
+#EXTINF:-1,DE: TNT Glitz
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2382.ts
+#EXTINF:-1,DE: MGM HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1164.ts
+#EXTINF:-1,DE: AXN HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/807.ts
+#EXTINF:-1,DE: ANNIXE
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1601.ts
+#EXTINF:-1,DE: 13th Street HD.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2605.ts
+#EXTINF:-1,DE: 13th Street HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/808.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1777.ts
+#EXTINF:-1,DE: Sky HD Fan Zone
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1688.ts
+#EXTINF:-1,DE: VH1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2387.ts
+#EXTINF:-1,DE: E!
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2488.ts
+#EXTINF:-1,DE: KIKA HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2580.ts
+ #EXTINF:-1,DE: Junior
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2570.ts
+#EXTINF:-1,DE: Catoon Network
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2569.ts
+#EXTINF:-1,DE: Boomerang
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1794.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2355.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/920.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1616.ts
+#EXTINF:-1,DE: Disney XD HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2385.ts
+#EXTINF:-1,DE: Nickelodeon
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2353.ts
+ #EXTINF:-1,DE: Sony HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1298.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1779.ts
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2386.ts
+#EXTINF:-1,DE: Phoenix HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1163.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2469.ts
+#EXTINF:-1,DE: Planet HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2120.ts
+#EXTINF:-1,DE: History HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1113.ts
+#EXTINF:-1,DE: Discovery Channel
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2747.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/921.ts
+#EXTINF:-1,DE: National Geo
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2541.ts
+#EXTINF:-1,DE: National Geo HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/304.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2714.ts
+#EXTINF:-1,DE: NatGeo Wild HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1160.ts
+ #EXTINF:-1,DE: KinoWelt
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2203.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1689.ts
+#EXTINF:-1,DE: Sky Hits
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2468.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/918.ts
+#EXTINF:-1,DE: Sky Action
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2467.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/322.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/323.ts
+#EXTINF:-1,DE: Sky Cinema
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2568.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1690.ts
+#EXTINF:-1,DE: Sky Cinema +24
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2748.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/324.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2610.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/326.ts
+#EXTINF:-1,DE: SKY ATLANTIC +1 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1796.ts
+#EXTINF:-1,DE: Sky Emotion
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1406.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2424.ts
+#EXTINF:-1,DE: Sky 3D
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1687.ts
+#EXTINF:-1,DE: Romance TV HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2383.ts
+#EXTINF:-1,DE: Sky Select HD1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2358.ts
+#EXTINF:-1,DE: Sky Select HD2
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2359.ts
+#EXTINF:-1,DE: Sky Select HD 3
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2360.ts
+#EXTINF:-1,DE: Sky Select HD 4
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2361.ts
+#EXTINF:-1,DE: Sky Select HD5
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2362.ts
+#EXTINF:-1,DE: Sky Select HD6
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2363.ts
+#EXTINF:-1,DE: Sky Select HD7
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2364.ts
+#EXTINF:-1,DE: Sky Select HD 8
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1403.ts
+#EXTINF:-1,DE: Sky Select HD 9
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2086.ts
+ #EXTINF:-1,DE: Motorvision TV
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1786.ts
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2720.ts
+#EXTINF:-1,DE: EUROSPORT
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1409.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1778.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/310.ts
+#EXTINF:-1,DE: Sky Sport 1+ HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2540.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2202.ts
+#EXTINF:-1,DE: Sky Sport News
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1780.ts
+#EXTINF:-1,DE: Sky Sport News.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2739.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/321.ts
+#EXTINF:-1,DE: Sky Sports 1 HD.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2466.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/320.ts
+#EXTINF:-1,DE: Sky Sports 2
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2632.ts
+#EXTINF:-1,DE: Sky Sports 3 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2384.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2740.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/300.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 2 --- MATCH TIME ---
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1962.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 3 --- MATCH TIME ---
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1961.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 4 --- MATCH TIME ---
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1960.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 5 --- MATCH TIME ----
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1959.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 6 --- MATCH TIME ---
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1958.ts
+ #EXTINF:-1,DE: Sport Time 1 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/319.ts
+#EXTINF:-1,DE: Sport Time 2 HD
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/318.ts 
